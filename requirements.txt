@@ -2,7 +2,6 @@ streamlit
 pymupdf
 Pillow
 numpy
-fitz  
 PyMuPDF
 tempfile
 transformers
