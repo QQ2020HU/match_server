@@ -1,0 +1,13 @@
+streamlit
+pymupdf
+Pillow
+numpy
+fitz  
+PyMuPDF
+tempfile
+transformers
+faiss-cpu
+torch
+torchvision
+tempfile
+shutil
